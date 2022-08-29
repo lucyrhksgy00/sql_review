@@ -40,7 +40,6 @@ hr 계정 잠금 해제하기
 		cmd > sqlplus
 	1. sys 계정으로 로그인 (sysdba 권한 가진채로 로그인)
 		sys as sysdba
-		1234
 	2. hr 계정 상태 잠금 해제
 		alter user hr account unlock;
 	3. hr 계정 비밀번호 설정하기
