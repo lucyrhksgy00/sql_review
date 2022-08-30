@@ -1,4 +1,4 @@
 # sql_review
 In the process of learning sql...
 
-File comments include Korean.
+File comments are in Korean.
